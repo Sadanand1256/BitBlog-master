@@ -96,12 +96,4 @@ Project is: _complete_
 
 
 
-## Contact
-Created by [@MobinaJafarian](https://github.com/MobinaJafarian) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
 
